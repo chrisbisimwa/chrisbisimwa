@@ -3,7 +3,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💼 &nbsp; Mobile Application Development: IONIC (Forntend), Java (Backend).
-- 💼 &nbsp; Web Application Development: JAVA SpringBoot, ANGULAR, PHP, Javascript, HTML5, CSS3.
+- 💼 &nbsp; Web Application Development: Java SpringBoot, ANGULAR, PHP, Javascript, HTML5, CSS3.
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, SQL Lite, Firebase, MySQL, Oracle.
 <br/>
 <h3><align=center>🛠 Git Contributions</h3>
