@@ -30,10 +30,10 @@
   />
  </p>
 
-[![AshDest's github activity graph](https://activity-graph.herokuapp.com/graph?username=chrisbisimwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/chrisbisimwa/github-readme-activity-graph)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=chrisbisimwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="chrisbisimwa" />
 <br/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=chrisbisimwa&label=Profile%20views&color=0e75b6&style=plastic" alt="chrisbisimwa" />
 
   <img src="https://komarev.com/ghpvc/?username=chrisbisimwa&label=PROFILE+VIEWS" alt="chrisbisimwa" />
  
