@@ -75,6 +75,23 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- You can add your featured repositories here -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisbisimwa&repo=chrisbisimwa&theme=tokyonight&hide_border=true)](https://github.com/chrisbisimwa/chrisbisimwa)
+
+</div>
+
+### 🔭 Currently Working On
+- 🌱 Learning advanced cloud architecture patterns
+- 💼 Building scalable microservices applications  
+- 🔍 Exploring AI/ML integration in web applications
+- 📚 Writing technical articles about system design
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -95,8 +112,22 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrisbisimwa&style=for-the-badge&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/chrisbisimwa?style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/chrisbisimwa?style=for-the-badge&color=yellow)
 
 </div>
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### ⚡ Fun Facts
+- 🎯 I debug code with the same passion I have for solving puzzles
+- 🌍 I believe great software can change the world, one line at a time  
+- ☕ Coffee is my debugging fuel and creative catalyst
+- 🎵 I code better with good music - ask me about my coding playlist!
+- 🌱 Always learning something new in the ever-evolving tech landscape
 
 ---
 
