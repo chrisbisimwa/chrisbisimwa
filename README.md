@@ -13,54 +13,55 @@ Passionate about:
 - Designing **robust and scalable architectures**
 - Building **high-performance backend systems**
 - Exploring **distributed systems, security, and optimization**
-- Writing about tech (system design, databases, emerging technologies)
 
 ---
 
 ## 🧠 Core Expertise
 
-### Backend & Architecture
-- API design (REST, scalable services)
-- System architecture & distributed systems
-- Authentication & security
-- Performance optimization
-
-### Frontend
-- Modern UI development
-- Responsive design
-- Data visualization
-
-### DevOps & Infrastructure
-- Cloud deployment
-- CI/CD pipelines
-- Containerization & orchestration
-- Linux server management
-
----
-
-## ⚙️ Tech Stack
-
-### 🖥️ Backend
-`Node.js` • `Laravel` • `Java (Spring)` • `PHP`
+### 🔧 Backend & Architecture
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+</p>
 
 ### 🌐 Frontend
-`Angular` • `JavaScript` • `TypeScript` • `TailwindCSS`
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50"/>
+</p>
 
-### 🗄️ Databases
-`MySQL` • `MongoDB` • `MariaDB`
-
-### ☁️ DevOps
-`AWS` • `Azure` • `Kubernetes` • `Docker` • `Linux`
+### ☁️ DevOps & Infrastructure
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-> (Ajoute ici 3 à 5 projets solides — très important)
+### 🔹 Scalable SaaS Backend
+Design and implementation of a multi-tenant backend architecture using **Node.js** and **MongoDB**, handling authentication, billing logic, and API scalability.
 
-- 🔹 **Project Name** – Short description of the problem solved + tech used  
-- 🔹 **Project Name** – Short description + impact  
-- 🔹 **Project Name** – Short description  
+### 🔹 E-commerce Platform (Laravel)
+Full backend system for an online store including:
+- Order management
+- Payment integration
+- Inventory system  
+Built with **Laravel** and **MySQL**
+
+### 🔹 Real-time Application System
+Development of a real-time communication system using **WebSockets**, enabling live updates and notifications across users.
+
+### 🔹 Data Dashboard & Analytics
+Interactive dashboard built with **Angular** and **Chart.js**, connected to a custom backend API for real-time analytics and reporting.
 
 ---
 
@@ -70,20 +71,23 @@ I regularly share insights about:
 - System design
 - Backend engineering
 - Performance & scalability
-- Emerging technologies
 
-👉 Blog: https://dev.to/chrisbisimwa
+👉 https://dev.to/chrisbisimwa
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisbisimwa&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisbisimwa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbisimwa&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chrisbisimwa&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbisimwa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -101,10 +105,8 @@ I regularly share insights about:
 
 ## ☕ Support
 
-If you like my work, you can support me:
-
-- https://paypal.me/krissbisimwa
-- https://www.buymeacoffee.com/chrisbisimwa
+- https://paypal.me/krissbisimwa  
+- https://www.buymeacoffee.com/chrisbisimwa  
 
 ---
 
